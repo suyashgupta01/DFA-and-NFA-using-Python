@@ -3,7 +3,7 @@ DFA and NFA implemented in Python.
 
 
 ## Instructions for DFA.py
-![alt text](https://github.com/suyashgupta01/DFA-and-NFA-using-Python/blob/master/DFA.jpg?raw=true)
+![DFA.png](https://github.com/suyashgupta01/DFA-and-NFA-using-Python/blob/master/DFA.png?raw=true)
 
 ## Instructions for NFA.py
-![alt text](https://github.com/suyashgupta01/DFA-and-NFA-using-Python/blob/master/NFA.jpg?raw=true)
+![NFA.png](https://github.com/suyashgupta01/DFA-and-NFA-using-Python/blob/master/NFA.png?raw=true)
