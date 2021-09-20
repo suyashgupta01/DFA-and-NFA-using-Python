@@ -1,5 +1,5 @@
 # DFA-and-NFA-using-Python
-DFA and NFA implemented in Python.
+Discrete Finite Automata and Nondeterministic finite automata from TOC (Theory of Computation) implemented in Python.
 
 
 ## Instructions for DFA.py
